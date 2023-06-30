@@ -9,3 +9,5 @@ req
 include deployment?
 
 run and ss in terminal?
+
+add frameworks
